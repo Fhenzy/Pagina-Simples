@@ -1,0 +1,140 @@
+@media (max-width: 600px) {
+ #readmore { display: flex;
+    height: auto;
+    flex-direction: column;
+    width: auto;
+    text-align: center;
+    align-items: center;
+ }
+}
+
+@media (max-width: 600px) {
+
+footer {display: flex;
+    height: auto;
+    flex-direction: column;
+    }
+    footer p {
+        margin-left: 50px;
+    }
+}
+@media (max-width: 600px) {
+    #final .acabando {display: flex;
+        flex-wrap: wrap;
+        height: auto;
+        flex-direction: column;
+        width: auto;
+    }
+    #final {display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+}
+
+
+@media (max-width: 600px) {
+    #esse {display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        height: auto;
+        width: auto;
+        
+     } 
+     #esse2 { display: flex;
+        flex-wrap: wrap;
+        height: auto;
+        width: auto;
+        margin-right: 0%;
+        
+        }
+        #esse2 #p2 {
+            margin-right: 0px;
+            width: 400px;
+        }
+        #esse2 #p1 {
+            margin-left: 0px;
+            width: 400px;
+        }
+    
+}
+@media (max-width: 790px) {
+    #readmore { display: flex;
+       height: auto;
+       flex-direction: column;
+       width: auto;
+       text-align: center;
+       align-items: center;
+    }
+   }
+   
+   @media (max-width: 790px) {
+   
+   footer {display: flex;
+       height: auto;
+       flex-direction: column;
+       }
+       footer p {
+        margin-left: 50px;
+    }
+   }
+   @media (max-width: 790px) {
+       #final .acabando {display: flex;
+           flex-wrap: wrap;
+           height: auto;
+           flex-direction: column;
+           width: auto;
+       }
+       #final {display: flex;
+           flex-wrap: wrap;
+           flex-direction: column;
+       }
+   }
+   
+   
+   @media (max-width: 790px) {
+       #esse {display: flex;
+           flex-wrap: wrap;
+           height: auto;
+           width: auto;
+        } 
+        #esse2 { display: flex;
+           flex-wrap: wrap;
+           height: auto;
+           width: auto;
+   
+           }
+       
+   }
+   @media (max-width: 600px) {
+       #centro p {
+        height: 100px;
+        width: 400px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        position: relative;
+        right: 50px;
+       }
+       #centro {
+           width: 400px;
+           display: flex;
+           flex-direction: column;
+           flex-wrap: wrap;
+       }
+   }
+   @media (max-width: 790px) {
+    #centro p {
+        width: 560px;
+        margin-left: 110px;
+    }
+}
+   @media (max-width: 600px) {
+    #header p {
+        width: 400px;
+    }
+}
+@media (max-width: 790px) {
+    #header p{
+        width: 400px;
+    }
+}
